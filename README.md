@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm ZAKARIA EL BIDALI</h1>
 <h3 align="center">I am a university student majoring in computer</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw1hQuse_QSfMp-q4WgQG1gc&ust=1696018267572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODd-8aOzoEDFQAAAAAdAAAAABAp")
+(img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria12e&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria12e" /> </p>
 
