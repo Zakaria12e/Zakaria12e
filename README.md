@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZAKARIA EL BIDALI</h1>
-<h3 align="center">I am a university student majoring in computer</h3>
+<h3 align="center">I am a university student majoring in computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria12e&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria12e" /> </p>
 
@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria12e&show_icons=true&locale=en&layout=compact" alt="zakaria12e" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria12e&show_icons=true&locale=en" alt="zakaria12e" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria12e&" alt="zakaria12e" /></p>
