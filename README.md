@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ZAKARIA EL BIDALI</h1>
 <h3 align="center">I am a university student majoring in computer science</h3>
 
-<img src="https://komarev.com/ghpvc/?username=zakaria12e&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria12e" />
+
 
 - ⚡ Fun fact **I am Funny**
 
