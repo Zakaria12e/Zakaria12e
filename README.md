@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ZAKARIA EL BIDALI</h1>
 <h3 align="center">I am a university student majoring in computer science</h3>
 
-
+[![](https://visitcount.itsvg.in/api?id=zakaria12e&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - ⚡ Fun fact **I am Funny**
 
