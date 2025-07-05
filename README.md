@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
