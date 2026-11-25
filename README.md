@@ -59,9 +59,9 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria12e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria12e&theme=dark&show_icons=true&locale=en" alt="zakaria12e" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria12e&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="zakaria12e" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria12e&theme=dark&" alt="zakaria12e" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria12e&theme=dark&&count_private=true&include_all_commits=true" alt="zakaria12e" /></p>
 
 <picture>
   <source
